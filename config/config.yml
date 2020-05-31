@@ -1,0 +1,10 @@
+
+server:
+    type: grpc
+    host: ''
+    port: 8000
+
+database:
+    type: mongo
+    host: ''
+    port: 27017
